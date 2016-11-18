@@ -1,0 +1,14 @@
+2. 路由器的命令“（  ）”用于以G为单位显示硬盘空间。(5.0分)
+A.  ps -afe
+B.  grep cadsys
+C.  df -g
+D.  df
+E.  shutdown –h now
+
+
+10. 路由器的命令“（  ）”用于显示文件系统空间使用情况。(5.0分)
+A.  ps -afe
+B.  grep cadsys
+C.  df -g
+D.  df
+E.  shutdown –h now
