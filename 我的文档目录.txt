@@ -1,105 +1,102 @@
-¾í Èí¼þ µÄÎÄ¼þ¼Ð PATH ÁÐ±í
-¾íÐòÁÐºÅÎª 0007-879A
-D:.
-©¦  dir.txt
-©¦  
-©À©¤CRSCËµÃ÷Êé
-©¦      CTCÏµÍ³Î¬»¤ËµÃ÷Êé-Õã¸ÓÏß.doc
-©¦      FZt-CTCÐÍ·ÖÉ¢×ÔÂÉµ÷¶È¼¯ÖÐÏµÍ³( ³µÕ¾£©²Ù×÷ËµÃ÷Êé¡ªÕã¸ÓÏß³µÕ¾.doc
-©¦      FZt-CTCÐÍ·ÖÉ¢×ÔÂÉµ÷¶È¼¯ÖÐÏµÍ³( ³µÕ¾£©²Ù×÷ËµÃ÷Êé¡ªÕã¸ÓÏß³µÕ¾.pdf
-©¦      FZt-CTCÐÍ·ÖÉ¢×ÔÂÉµ÷¶È¼¯ÖÐÏµÍ³²Ù×÷ÊÖ²á£¨ÖÐÐÄ£©¡ªÕã¸ÓÏßÖÐÐÄ.doc
-©¦      ËµÃ÷Êé.zip
-©¦      
-©À©¤CTC´óÐÞ
-©¦      ctc·ÖÉ¢×ÔÂÉ.doc
-©¦      ctc·ÖÉ¢×ÔÂÉ.pdf
-©¦      CTC³µÎñÖÕ¶Ë²Ù×÷ÊÖ²á.doc
-©¦      CTC³µÎñÖÕ¶Ë²Ù×÷ÊÖ²á.pdf
-©¦      Õã¸ÓCTC±Ê¼Ç.doc
+new branchæ¼”ç¤º
+â”‚  
+â”œâ”€CRSCè¯´æ˜Žä¹¦
+â”‚      CTCç³»ç»Ÿç»´æŠ¤è¯´æ˜Žä¹¦-æµ™èµ£çº¿.doc
+â”‚      FZt-CTCåž‹åˆ†æ•£è‡ªå¾‹è°ƒåº¦é›†ä¸­ç³»ç»Ÿ( è½¦ç«™ï¼‰æ“ä½œè¯´æ˜Žä¹¦â€”æµ™èµ£çº¿è½¦ç«™.doc
+â”‚      FZt-CTCåž‹åˆ†æ•£è‡ªå¾‹è°ƒåº¦é›†ä¸­ç³»ç»Ÿ( è½¦ç«™ï¼‰æ“ä½œè¯´æ˜Žä¹¦â€”æµ™èµ£çº¿è½¦ç«™.pdf
+â”‚      FZt-CTCåž‹åˆ†æ•£è‡ªå¾‹è°ƒåº¦é›†ä¸­ç³»ç»Ÿæ“ä½œæ‰‹å†Œï¼ˆä¸­å¿ƒï¼‰â€”æµ™èµ£çº¿ä¸­å¿ƒ.doc
+â”‚      è¯´æ˜Žä¹¦.zip
+â”‚      
+â”œâ”€CTCå¤§ä¿®
+â”‚      ctcåˆ†æ•£è‡ªå¾‹.doc
+â”‚      ctcåˆ†æ•£è‡ªå¾‹.pdf
+â”‚      CTCè½¦åŠ¡ç»ˆç«¯æ“ä½œæ‰‹å†Œ.doc
+â”‚      CTCè½¦åŠ¡ç»ˆç«¯æ“ä½œæ‰‹å†Œ.pdf
+â”‚      æµ™èµ£CTCç¬”è®°.doc
 
-©À©¤MaxDOS
-©¦      MaxDOS8.0¹¤¾ßÏä¼ò½é.doc
-©¦      ÖÆ×÷winPE¡¢Linux¡¢maxdosÈýºÏÒ»UÅÌÆô¶¯ÅÌ.doc
-©¦      
-©À©¤python
-©¦      A Primer on Scientfic Programming with Python Third Edition .pdf
-©¦      Anaconda-Open-Source-Data-Science.pdf
-©¦      Beginning Python£ºUsing Python 2.6 and Python 3.1.pdf
-©¦      Black Hat Python.pdf
-©¦      Expert Python Programming.pdf
-©¦      learn-python-master.zip
-©¦      learn-python-the-hard-way-cn.pdf
-©¦      learn-python3-master.zip
-©¦      Learn_Python_The_Hard_Way_zh-cn.pdf
-©¦      LPTHW.pdf
-©¦      NumPy_1_5_Beginner__039_s_Guide.pdf
-©¦      Python 2.7 Tutorial ÖÐÎÄ°æ.pdf
-©¦      pythonºËÐÄ±Ê¼Ç.pdf
-©¦      [¿É°®µÄPython].ÕÜË¼ÉçÇø.²åÍ¼°æ,ÎÄ×Ö°æ[Ñ§Ï°¿âwww.xuexi111.com].pdf
-©¦      ÉîÈë Python 3 ÖÐÎÄ°æ.pdf
-©¦      ¼òÃ÷Python½Ì³Ì.pdf
+â”œâ”€MaxDOS
+â”‚      MaxDOS8.0å·¥å…·ç®±ç®€ä»‹.doc
+â”‚      åˆ¶ä½œwinPEã€Linuxã€maxdosä¸‰åˆä¸€Uç›˜å¯åŠ¨ç›˜.doc
+â”‚      
+â”œâ”€python
+â”‚      A Primer on Scientfic Programming with Python Third Edition .pdf
+â”‚      Anaconda-Open-Source-Data-Science.pdf
+â”‚      Beginning Pythonï¼šUsing Python 2.6 and Python 3.1.pdf
+â”‚      Black Hat Python.pdf
+â”‚      Expert Python Programming.pdf
+â”‚      learn-python-master.zip
+â”‚      learn-python-the-hard-way-cn.pdf
+â”‚      learn-python3-master.zip
+â”‚      Learn_Python_The_Hard_Way_zh-cn.pdf
+â”‚      LPTHW.pdf
+â”‚      NumPy_1_5_Beginner__039_s_Guide.pdf
+â”‚      Python 2.7 Tutorial ä¸­æ–‡ç‰ˆ.pdf
+â”‚      pythonæ ¸å¿ƒç¬”è®°.pdf
+â”‚      [å¯çˆ±çš„Python].å“²æ€ç¤¾åŒº.æ’å›¾ç‰ˆ,æ–‡å­—ç‰ˆ[å­¦ä¹ åº“www.xuexi111.com].pdf
+â”‚      æ·±å…¥ Python 3 ä¸­æ–‡ç‰ˆ.pdf
+â”‚      ç®€æ˜ŽPythonæ•™ç¨‹.pdf
 
-©À©¤ThinkpadÓ²¼þÎ¬»¤ÊÖ²á
-©¦      ThinkPad Edge E425_E525ÓÃ»§Ê¹ÓÃÊÖ²á.pdf
-©¦      ThinkPad X200, X200s, X200si, X201,X201i, and X201s Hardware Maintenance Manual.pdf
-©¦      ThinkPad-X1-CarbonÓÃ»§Ö¸ÄÏ(touch).pdf
-©¦      X200 maintenance manual.pdf
-©¦      ×¨ÃÅÍøÂÛÌ³-x200ÖÐÎÄ²ð»úÊÖ²á.pdf
-©¦      
-©À©¤[ Ð¡º×Ë«Æ´·ÉÑï ]
-©¦      backup.config(2016.10.23).txt
-©¦      µ¼³ö - È«²¿´ÊÌõ.txt
-©¦      
-©À©¤Êé¼®
-©¦      028501-ÆÕÁÖË¹¶ÙÎ¢»ý·Ö¶Á±¾[hejizhan.com].pdf
-©¦      Git½Ì³ÌByÁÎÑ©·å.pdf
-©¦      The_Calculus_Lifesaver.pdf
-©¦      ²»±§Ô¹µÄÊÀ½ç.txt
-©¦      Êå±¾»ªÂÛËµÎÄ¼¯.TXT
-©¦      Ë¼ÏëµÄÐÇ¿Õ.txt
-©¦      ×îÄêÇáµÄ¿ÆÑ§¹Û²ìÒ½Ñ§µÄÔý¼Ç.txt
-©¦      ÖØËµÖÐ¹ú½ü´úÊ·.pdf
-©¦      ÖØËµÖÐ¹ú½ü´úÊ·.txt
-©¦      
-©À©¤µ³¹¤×÷
-©¦      ¡¾·¢Ñï¡°ÈýÖÖ¾«Éñ¡±£¬¼ùÐÐ´´ÐÂ´´Ð§¡¿·¢ÑïÈýÖÖ¾«Éñ£¬Ñ§¼¼Á·¹¦£¬¸ÚÎ»³É²Å-ÀîÃ÷.doc
-©¦      Á½Ñ§Ò»×öµÚÈý½×¶ÎÐÄµÃÌå»á-ÀîÃ÷ (2).doc
-©¦      Á½Ñ§Ò»×öµÚÈý½×¶ÎÐÄµÃÌå»á-ÀîÃ÷.doc
-©¦      Á½Ñ§Ò»×öµÚÈý½×¶ÎÐÄµÃÌå»á-ÀîÃ÷3.doc
-©¦      ÁõÇìµÄ³ÐÅµÊé.doc
-©¦      Ñ§Ï°Ìå»á--ÁõÇì.doc
-©¦      Ñ§Ï°Ìå»á-ÀîÃ÷.doc
-©¦      Ñ§¶øË¼£¬Ë¼¶øÂ¼£¬Õã¸ÓCTC´óÐÞÊ©¹¤³É³¤¸ÐÎò.doc
-©¦      ¶ÔÍâ±¨µÀ-Ä£°å.doc
-©¦      ¸ÐÏë-ÀîÃ÷ (2).doc
-©¦      ¸ÐÏë-ÀîÃ÷.doc
-©¦      ÀîÃ÷-³ÐÅµÊé .doc
-©¦      ±ê×¼²Î¿¼.doc
-©¦      Õã¸ÓCTC´óÐÞÊ©¹¤³É³¤¸ÐÎò (ÐÞ¸Ä).doc
-©¦      ²Ý¸å.doc
-©¦      
-©À©¤ÁÐ¿Ø
-©¦      CTCS-3¼¶ÁÐ¿ØÏµÍ³Ó¦´ðÆ÷Ó¦ÓÃÔ­Ôò£¨V2.0£©-2010-3-16.doc
-©¦      CTCÖÐÐÄÎ¬»¤ÊÖ²á060423.doc
-©¦      LKR-TÐÍÎÞÏß±ÕÈûÖÐÐÄ.doc
-©¦      TDCSÓëÁªËøË«ÕûÖÎ·½°¸.doc
-©¦      ÉÏº£¾ÖC2,C3Çø¶Î·¶Î§¼°C2,3¼¶¼äÇÐ»»¼¼Êõ×ÊÁÏµÄÍ¨Öª-2.doc
-©¦      ÉÏº£¾ÖC2,C3Çø¶Î·¶Î§¼°C2,3¼¶¼äÇÐ»»¼¼Êõ×ÊÁÏµÄÍ¨Öª.doc
-©¦      ÉÏº£¾Öº¼ð®¿Í×¨³µÕ¾ÐÅÏ¢°²È«1.0Éý¼¶2.0Ê©¹¤¼¼Êõ·½°¸--20140411-V2.doc
-©¦      ÉÏº£¾Ö³µÕ¾-ÐÅÏ¢°²È«V2.0ÅàÑµÊÖ²á-´ÞÐÂÀÖ-20140424-V3.doc
-©¦      ¿ÍÔË×¨ÏßÁÐ¿ØÏµÍ³ÁÙÊ±ÏÞËÙ¼¼Êõ¹æ·¶V1.9.pdf
-©¦      ¿Æ¼¼ÔË¡²2010)136ºÅ_¹ØÓÚÓ¡·¢¡¶CTCS-2¼¶ÁÐ¿ØÏµÍ³Ó¦´ðÆ÷Ó¦ÓÃÔ­Ôò(V2.0)¡·µÄÍ¨Öª.pdf
-©¦      ÔË»ùÐÅºÅ[2010]821ºÅ_¿Í×¨ÐÅºÅÏµÍ³°²È«Êý¾ÝÍø¼¼Êõ¹æ·¶(V2[1].0).pdf
-©¦      
-©¸©¤·ÑÂü
-    ©¦  ¡¶·ÑÂüµÄ²Êºç¡·[ÃÀ]ÂüÂÞµÏÅµ.pdf
-    ©¦  ±ðÄÖÁË£¬·ÑÂüÏÈÉú.pdf
-    ©¦  ÎïÀí¶¨ÂÉµÄ±¾ÐÔ(×ß½ü·ÑÂü´ÔÊé).pdf
-    ©¦  ·ÑÂü-Äã¸ÉÂðÔÚºõ±ðÈËÔõÃ´Ïë.pdf
-    ©¦  ·ÑÂü_·¢ÏÖµÄÀÖÈ¤.pdf
-    ©¦  ·ÑÂü½²ÎïÀíÈëÃÅ.pdf
-    ©¦  
-    ©¸©¤english-feynman
+â”œâ”€Thinkpadç¡¬ä»¶ç»´æŠ¤æ‰‹å†Œ
+â”‚      ThinkPad Edge E425_E525ç”¨æˆ·ä½¿ç”¨æ‰‹å†Œ.pdf
+â”‚      ThinkPad X200, X200s, X200si, X201,X201i, and X201s Hardware Maintenance Manual.pdf
+â”‚      ThinkPad-X1-Carbonç”¨æˆ·æŒ‡å—(touch).pdf
+â”‚      X200 maintenance manual.pdf
+â”‚      ä¸“é—¨ç½‘è®ºå›-x200ä¸­æ–‡æ‹†æœºæ‰‹å†Œ.pdf
+â”‚      
+â”œâ”€[ å°é¹¤åŒæ‹¼é£žæ‰¬ ]
+â”‚      backup.config(2016.10.23).txt
+â”‚      å¯¼å‡º - å…¨éƒ¨è¯æ¡.txt
+â”‚      
+â”œâ”€ä¹¦ç±
+â”‚      028501-æ™®æž—æ–¯é¡¿å¾®ç§¯åˆ†è¯»æœ¬[hejizhan.com].pdf
+â”‚      Gitæ•™ç¨‹Byå»–é›ªå³°.pdf
+â”‚      The_Calculus_Lifesaver.pdf
+â”‚      ä¸æŠ±æ€¨çš„ä¸–ç•Œ.txt
+â”‚      å”æœ¬åŽè®ºè¯´æ–‡é›†.TXT
+â”‚      æ€æƒ³çš„æ˜Ÿç©º.txt
+â”‚      æœ€å¹´è½»çš„ç§‘å­¦è§‚å¯ŸåŒ»å­¦çš„æœ­è®°.txt
+â”‚      é‡è¯´ä¸­å›½è¿‘ä»£å².pdf
+â”‚      é‡è¯´ä¸­å›½è¿‘ä»£å².txt
+â”‚      
+â”œâ”€å…šå·¥ä½œ
+â”‚      ã€å‘æ‰¬â€œä¸‰ç§ç²¾ç¥žâ€ï¼Œè·µè¡Œåˆ›æ–°åˆ›æ•ˆã€‘å‘æ‰¬ä¸‰ç§ç²¾ç¥žï¼Œå­¦æŠ€ç»ƒåŠŸï¼Œå²—ä½æˆæ‰-æŽæ˜Ž.doc
+â”‚      ä¸¤å­¦ä¸€åšç¬¬ä¸‰é˜¶æ®µå¿ƒå¾—ä½“ä¼š-æŽæ˜Ž (2).doc
+â”‚      ä¸¤å­¦ä¸€åšç¬¬ä¸‰é˜¶æ®µå¿ƒå¾—ä½“ä¼š-æŽæ˜Ž.doc
+â”‚      ä¸¤å­¦ä¸€åšç¬¬ä¸‰é˜¶æ®µå¿ƒå¾—ä½“ä¼š-æŽæ˜Ž3.doc
+â”‚      åˆ˜åº†çš„æ‰¿è¯ºä¹¦.doc
+â”‚      å­¦ä¹ ä½“ä¼š--åˆ˜åº†.doc
+â”‚      å­¦ä¹ ä½“ä¼š-æŽæ˜Ž.doc
+â”‚      å­¦è€Œæ€ï¼Œæ€è€Œå½•ï¼Œæµ™èµ£CTCå¤§ä¿®æ–½å·¥æˆé•¿æ„Ÿæ‚Ÿ.doc
+â”‚      å¯¹å¤–æŠ¥é“-æ¨¡æ¿.doc
+â”‚      æ„Ÿæƒ³-æŽæ˜Ž (2).doc
+â”‚      æ„Ÿæƒ³-æŽæ˜Ž.doc
+â”‚      æŽæ˜Ž-æ‰¿è¯ºä¹¦ .doc
+â”‚      æ ‡å‡†å‚è€ƒ.doc
+â”‚      æµ™èµ£CTCå¤§ä¿®æ–½å·¥æˆé•¿æ„Ÿæ‚Ÿ (ä¿®æ”¹).doc
+â”‚      è‰ç¨¿.doc
+â”‚      
+â”œâ”€åˆ—æŽ§
+â”‚      CTCS-3çº§åˆ—æŽ§ç³»ç»Ÿåº”ç­”å™¨åº”ç”¨åŽŸåˆ™ï¼ˆV2.0ï¼‰-2010-3-16.doc
+â”‚      CTCä¸­å¿ƒç»´æŠ¤æ‰‹å†Œ060423.doc
+â”‚      LKR-Tåž‹æ— çº¿é—­å¡žä¸­å¿ƒ.doc
+â”‚      TDCSä¸Žè”é”åŒæ•´æ²»æ–¹æ¡ˆ.doc
+â”‚      ä¸Šæµ·å±€C2,C3åŒºæ®µèŒƒå›´åŠC2,3çº§é—´åˆ‡æ¢æŠ€æœ¯èµ„æ–™çš„é€šçŸ¥-2.doc
+â”‚      ä¸Šæµ·å±€C2,C3åŒºæ®µèŒƒå›´åŠC2,3çº§é—´åˆ‡æ¢æŠ€æœ¯èµ„æ–™çš„é€šçŸ¥.doc
+â”‚      ä¸Šæµ·å±€æ­ç”¬å®¢ä¸“è½¦ç«™ä¿¡æ¯å®‰å…¨1.0å‡çº§2.0æ–½å·¥æŠ€æœ¯æ–¹æ¡ˆ--20140411-V2.doc
+â”‚      ä¸Šæµ·å±€è½¦ç«™-ä¿¡æ¯å®‰å…¨V2.0åŸ¹è®­æ‰‹å†Œ-å´”æ–°ä¹-20140424-V3.doc
+â”‚      å®¢è¿ä¸“çº¿åˆ—æŽ§ç³»ç»Ÿä¸´æ—¶é™é€ŸæŠ€æœ¯è§„èŒƒV1.9.pdf
+â”‚      ç§‘æŠ€è¿ã€”2010)136å·_å…³äºŽå°å‘ã€ŠCTCS-2çº§åˆ—æŽ§ç³»ç»Ÿåº”ç­”å™¨åº”ç”¨åŽŸåˆ™(V2.0)ã€‹çš„é€šçŸ¥.pdf
+â”‚      è¿åŸºä¿¡å·[2010]821å·_å®¢ä¸“ä¿¡å·ç³»ç»Ÿå®‰å…¨æ•°æ®ç½‘æŠ€æœ¯è§„èŒƒ(V2[1].0).pdf
+â”‚      
+â””â”€è´¹æ›¼
+    â”‚  ã€Šè´¹æ›¼çš„å½©è™¹ã€‹[ç¾Ž]æ›¼ç½—è¿ªè¯º.pdf
+    â”‚  åˆ«é—¹äº†ï¼Œè´¹æ›¼å…ˆç”Ÿ.pdf
+    â”‚  ç‰©ç†å®šå¾‹çš„æœ¬æ€§(èµ°è¿‘è´¹æ›¼ä¸›ä¹¦).pdf
+    â”‚  è´¹æ›¼-ä½ å¹²å—åœ¨ä¹Žåˆ«äººæ€Žä¹ˆæƒ³.pdf
+    â”‚  è´¹æ›¼_å‘çŽ°çš„ä¹è¶£.pdf
+    â”‚  è´¹æ›¼è®²ç‰©ç†å…¥é—¨.pdf
+    â”‚  
+    â””â”€english-feynman
             2005-04-ThePleasureOfFindingThingsOut.pdf
             Brian Green - The Elegant Universe (1999).pdf
             brinker.pdf
